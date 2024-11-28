@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-   <a href="https://github.com/X-Rkhyg"><img title="Rey" src="https://img.shields.io/badge/Rkhyg-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+   <a href="https://github.com/Synthever"><img title="Rey" src="https://img.shields.io/badge/Rkhyg-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 
 <p align="center">
@@ -50,9 +50,9 @@
 </p>
 
 <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=X-Rkhyg&theme=dark&hide_border=false">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Synthever&theme=dark&hide_border=false">
    <br>
-   <img src="https://github-readme-stats.vercel.app/api?username=X-Rkhyg&theme=dark&hide_border=false&include_all_commits=true&count_private=false">
+   <img src="https://github-readme-stats.vercel.app/api?username=Synthever&theme=dark&hide_border=false&include_all_commits=true&count_private=false">
    <br>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=X-Rkhyg&theme=dark&hide_border=false&include_all_commits=true&count_priva">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Synthever&theme=dark&hide_border=false&include_all_commits=true&count_priva">
 </p>
