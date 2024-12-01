@@ -1,19 +1,11 @@
 <p align="center">
-   <img style="width: 180px; height: 180px;" src="https://avatars.githubusercontent.com/u/126140590?s=400&u=4d85487b9abbdc74685725cc82e4d6676a693ce4&v=4" alt="png" width="128" height="128"/>
-</p>
-
-<p align="center">
-   <a href="https://github.com/Synthever"><img title="Rey" src="https://img.shields.io/badge/Rkhyg-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
-
-<p align="center">
    <b>About Me</b>
 </p>
 
 <p align="center">
-   <li align="center">👋 Hello I'm Rey</li>
-   <li align="center">📌 I'm Live on Yogyakarta</li>
-   <li align="center">▫️ My Hobbies is Coding & Pentesting</li>
+   <li align="center">Hello I'm Rey</li>
+   <li align="center">I'm Live on Yogyakarta</li>
+   <li align="center">My Hobbies is Coding & Photography</li>
 </p>
 
 <hr>
