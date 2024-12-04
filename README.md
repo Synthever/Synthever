@@ -42,9 +42,9 @@
 </p>
 
 <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Synthever&theme=dark&hide_border=false">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Reinazhard&theme=dark&hide_border=false">
    <br>
-   <img src="https://github-readme-stats.vercel.app/api?username=Synthever&theme=dark&hide_border=false&include_all_commits=true&count_private=false">
+   <img src="https://github-readme-stats.vercel.app/api?username=Reinazhard&theme=dark&hide_border=false&include_all_commits=true&count_private=false">
    <br>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Synthever&theme=dark&hide_border=false&include_all_commits=true&count_priva">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reinazhard&theme=dark&hide_border=false&include_all_commits=true&count_priva">
 </p>
