@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Raekhandi Yoga Gusmawan</h1>
-<h3 align="center">Back End Developer | Want to learn 🐧</h3>
+<h3 align="center">Back End Developer | #KNTL Kids Need To Learn 🐧</h3>
 
 <br><br>
 
