@@ -20,7 +20,7 @@
 
   <h3 align="center">Design</h3>
   <a href="https://www.figma.com/" target="_blank">
-    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="FIGMA" />
+    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white   " alt="FIGMA" />
   </a>
 
   <br>
@@ -149,12 +149,13 @@
 
   <br>
 
-  <h3 align="center">Music</h3>
-  <a href="https://www.spotify.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+  <h3 align="center">Version Control</h3>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="GIT" />
   </a>
-  <img src="" alt="" />
-  <img src="" alt="" />
+  <a href="https://github.com/Synthever" target="_blank">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GH" />
+  </a>
 
 ![snake gif](https://github.com/synthever/synthever/blob/output/github-contribution-grid-snake-dark.svg)
 </div>
