@@ -8,6 +8,10 @@
 
   <br>
 
+  ![snake gif](https://github.com/synthever/synthever/blob/output/github-contribution-grid-snake-dark.svg)
+
+  <br>
+
   <h3 align="center">Database</h3>
   <a href="https://www.mongodb.com/" target="_blank"">
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -156,10 +160,6 @@
   <a href="https://github.com/Synthever" target="_blank">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GH" />
   </a>
-
-![snake gif](https://github.com/synthever/synthever/blob/output/github-contribution-grid-snake-dark.svg)
-
-
 </div>
 
 <div align="center">
