@@ -73,9 +73,7 @@
   <br>
 
   <h3 align="center">Music</h3>
-  <a href="https://www.spotify.com" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
-  </a>
+  <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" disable />
   <img src="" alt="" />
   <img src="" alt="" />
 
