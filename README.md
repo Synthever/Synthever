@@ -1,7 +1,14 @@
 <h1 align="center">Hi, I'm Raekhandi Yoga Gusmawan</h1>
-<h3 align="center">Back End Developer | Want to learn 🐧</h3>
+<h3 align="center">Back End Developer | #KNTL Kids Need To Learn 🐧</h3>
 
 <br><br>
+
+<style>
+a {
+  color: inherit;
+  text-decoration: none;
+}
+</style>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
@@ -9,7 +16,7 @@
   <br>
 
   <h3 align="center">Database</h3>
-  <a href="https://www.mongodb.com/" target="_blank">
+  <a href="https://www.mongodb.com/" target="_blank"">
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   </a>
   <a href="https://www.mysql.com/" target="_blank">
