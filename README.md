@@ -158,11 +158,14 @@
   </a>
 
 ![snake gif](https://github.com/synthever/synthever/blob/output/github-contribution-grid-snake-dark.svg)
+
+
 </div>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=synthever&layout=compact&theme=dracula" />
-</p>
+
+  <img align="Center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=synthever&layout=compact&theme=dracula" />
+  <img align="Center" src="https://github-readme-stats.vercel.app/api?username=synthever&layout=compact&theme=dracula" />
+
 
 ---
 
