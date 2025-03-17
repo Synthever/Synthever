@@ -106,28 +106,6 @@
 
   <br>
 
-  <h3 align="center">IDEs</h3>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSC" />
-  </a>
-  <a href="https://codepen.io/" target="_blank">
-    <img src="https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black" alt="Codepen" />
-  </a>
-  <a href="https://notepad-plus-plus.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black" alt="Notepad++" />
-  </a>
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank">
-    <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="PyCharm" />
-  </a>
-  <a href="https://replit.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" alt="Replit" />
-  </a>
-  <a href="https://www.sublimetext.com/" target="_blank">
-    <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important" alt="Sublime" />
-  </a>
-
-  <br>
-
   <h3 align="center">Languages</h3>
   <a href="https://isocpp.org/" target="_blank">
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
