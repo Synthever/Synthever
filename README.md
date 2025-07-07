@@ -2,7 +2,7 @@
 <h3 align="center">Front End Developer | #KNTL Kids Need To Learn 🐧</h3>
 
 <div align="center">
-  <img src="https://i.ibb.co/N2b2SNqp/lv-0-20250707155000.gif" width="200" height="200" style="border-radius: 50%;">
+  <img src="https://i.ibb.co/N2b2SNqp/lv-0-20250707155000.gif" width="200" height="200" style="border-radius: 50;">
 </div>
 
 <br>
