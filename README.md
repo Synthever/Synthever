@@ -1,12 +1,13 @@
 <h1 align="center">Hi, I'm Raekhandi Yoga Gusmawan</h1>
 <h3 align="center">Front End Developer | #KNTL Kids Need To Learn 🐧</h3>
 
+<div align="center">
+  <img src="https://i.ibb.co/N2b2SNqp/lv-0-20250707155000.gif">
+</div>
+
 <br><br>
 
 <div align="center">
-  <img src="https://i.ibb.co/N2b2SNqp/lv-0-20250707155000.gif">
-  
-  <br>
   
   <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
 
