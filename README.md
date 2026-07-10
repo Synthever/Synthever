@@ -20,9 +20,3 @@
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=synthever&layout=compact&theme=dracula" />
-  <img src="https://github-readme-stats.vercel.app/api?username=synthever&layout=compact&theme=dracula" />
-</div>
-
