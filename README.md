@@ -22,8 +22,8 @@
 
 <div align="center">
   
-  <img src="https://github-readme-stats-synthever.vercel.app/api?username=Synthever&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats-synthever.vercel.app/api/top-langs/?username=Synthever&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Synthever&theme=tokyonight" alt="GitHub Stats" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Synthever&theme=tokyonight&utcOffset=7" alt="Productive Time" height="200" />
 
 </div>
 
