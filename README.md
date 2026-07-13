@@ -1,10 +1,6 @@
 <div align="center">
-  
-# Hi 👋, I'm Raekhandi Yoga Gusmawan
 
-### Full-stack Developer | Kids Need To Learn 🐧
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3F97F7&center=true&vCenter=true&random=false&width=435&lines=Full-stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3F97F7&center=true&vCenter=true&random=false&width=435&lines=Hi!+👋🏻;I'm+Raekhandi+Yoga+Gusmawan;Full-stack+Web+Developer;Nice+To+Meet+You" alt="Typing SVG" />
 
 </div>
 
