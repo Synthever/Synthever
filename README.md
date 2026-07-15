@@ -24,14 +24,35 @@
 
 <div align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Synthever&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Synthever&theme=tokyonight" alt="GitHub Stats" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Synthever&theme=tokyonight&utcOffset=7" alt="Productive Time" height="200" />
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Synthever&theme=tokyonight" alt="Profile Details" />
 
 </div>
 
 <div align="center">
   
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Synthever&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Synthever&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Synthever&theme=tokyonight" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Synthever&theme=tokyonight" height="180" />
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Synthever&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
