@@ -4,8 +4,6 @@
 
 </div>
 
----
-
 <div align="center">
   
   <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" width="600">
@@ -18,20 +16,12 @@
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
 <div align="center">
   
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Synthever&theme=tokyonight" alt="GitHub Stats" height="200" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Synthever&theme=tokyonight&utcOffset=7" alt="Productive Time" height="200" />
 
 </div>
-
----
-
-## 🏆 GitHub Achievements
 
 <div align="center">
   
@@ -46,19 +36,13 @@
 
 </div>
 
----
-
-## 🔥 Contribution Streak
-
 <div align="center">
   
   [![GitHub Streak](https://streak-stats.demolab.com?user=Synthever&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
----
-
-## 💻 Tech Stack
+💻 Tech Stack
 
 <div align="center">
 
