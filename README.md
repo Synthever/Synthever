@@ -18,21 +18,21 @@
 
 <div align="center">
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Synthever&theme=tokyonight" alt="GitHub Stats" height="100" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Synthever&theme=tokyonight&utcOffset=7" alt="Productive Time" height="100" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Synthever&theme=tokyonight" alt="GitHub Stats" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Synthever&theme=tokyonight&utcOffset=7" alt="Productive Time" height="150" />
 
 </div>
 
 <div align="center">
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Synthever&theme=tokyonight" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Synthever&theme=tokyonight" alt="Profile Details" height="150" />
 
 </div>
 
 <div align="center">
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Synthever&theme=tokyonight" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Synthever&theme=tokyonight" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Synthever&theme=tokyonight" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Synthever&theme=tokyonight" height="150" />
 
 </div>
 
@@ -41,8 +41,6 @@
   [![GitHub Streak](https://streak-stats.demolab.com?user=Synthever&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </div>
-
-💻 Tech Stack
 
 <div align="center">
 
@@ -64,7 +62,7 @@
 
 <div align="center">
   
-  <img src="https://komarev.com/ghpvc/?username=Synthever&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Synthever&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" height="150"  />
 
 </div>
 
