@@ -18,21 +18,21 @@
 
 <div align="center">
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Synthever&theme=tokyonight" alt="GitHub Stats" height="150" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Synthever&theme=tokyonight&utcOffset=7" alt="Productive Time" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Synthever&theme=tokyonight" alt="GitHub Stats" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Synthever&theme=tokyonight&utcOffset=7" alt="Productive Time" height="180" />
 
 </div>
 
 <div align="center">
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Synthever&theme=tokyonight" alt="Profile Details" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Synthever&theme=tokyonight" alt="Profile Details" height="180" />
 
 </div>
 
 <div align="center">
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Synthever&theme=tokyonight" height="150" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Synthever&theme=tokyonight" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Synthever&theme=tokyonight" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Synthever&theme=tokyonight" height="180" />
 
 </div>
 
