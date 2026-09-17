@@ -18,8 +18,8 @@
 
 <div align="center">
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Synthever&theme=tokyonight" alt="GitHub Stats" height="200" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Synthever&theme=tokyonight&utcOffset=7" alt="Productive Time" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Synthever&theme=tokyonight" alt="GitHub Stats" height="100" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Synthever&theme=tokyonight&utcOffset=7" alt="Productive Time" height="100" />
 
 </div>
 
@@ -62,27 +62,11 @@
 
 </div>
 
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Synthever&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
-
-</div>
-
----
-
-## 👀 Profile Views
-
 <div align="center">
   
   <img src="https://komarev.com/ghpvc/?username=Synthever&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 
 </div>
-
----
 
 <div align="center">
   
